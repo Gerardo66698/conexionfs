@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "27134150249",
+    "firebase_url": "https://prueba-conexion-35eaf.firebaseio.com",
+    "project_id": "prueba-conexion-35eaf",
+    "storage_bucket": "prueba-conexion-35eaf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:27134150249:android:f173f38bb96585d6fb44f8",
+        "android_client_info": {
+          "package_name": "com.example.conexionfs"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "27134150249-8vak5t1p6h147bs4tiiug3k9un91f8he.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmnrv8knauhj8rv6Ho3jg4d26zy5Kkcf4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "27134150249-8vak5t1p6h147bs4tiiug3k9un91f8he.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
